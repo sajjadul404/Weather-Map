@@ -1,0 +1,6 @@
+{
+  "name": "WeatherMap - Interactive Weather Map",
+  "description": "Interactive weather map application visualizing real-time weather conditions, temperature heatmaps, and meteorological forecasts across multiple locations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
