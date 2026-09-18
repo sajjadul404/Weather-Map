@@ -93,7 +93,7 @@ export default function App() {
     }
   }, [locations, addToast]);
 
-  // Initial load
+  // Initial load and responsive sidebar behavior
   useEffect(() => {
     refreshAllWeatherData();
     if (window.innerWidth < 768) {
